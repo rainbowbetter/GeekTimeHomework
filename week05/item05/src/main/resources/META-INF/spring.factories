@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.rainbowbetter.week05.item05.SchoolAutoConfiguration
